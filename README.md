@@ -3,7 +3,8 @@
 - 🌱 I’m currently acquiring proficiency in various aspects of RNA-seq data analysis, single-cell analysis, as well as the integration of machine learning (ML) and deep learning methodologies.
 - 💞️ I’m looking to collaborate on Computational Biology, ML research work.
 - 📫 reach me : https://github.com/sudipcs
-*I rename my github account
+
+I rename my github account
 
 <!---
 
