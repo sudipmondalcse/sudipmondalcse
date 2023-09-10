@@ -2,7 +2,7 @@
 - 👀 My research interests primarily lie in the field of RNA-seq data analysis and biological big data exploration. I have sharpened skills in Sequence alignment and analysis, de novo transcriptome assembly, survival analysis using diverse statistical and machine learning techniques, and the development of biological sequence databases.
 - 🌱 I’m currently acquiring proficiency in various aspects of RNA-seq data analysis, single-cell analysis, as well as the integration of machine learning (ML) and deep learning methodologies.
 - 💞️ I’m looking to collaborate on Computational Biology, ML research work.
-- 📫 reach me : https://github.com/sudipcs
+- 📫 reach me : https://github.com/sudipcs  <br/>
 
 I rename my github account
 
